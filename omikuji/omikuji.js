@@ -23,4 +23,4 @@ var rand = Math.floor( Math.random() * 5) ;
     userresult = "凶";
   }
 
-  document.getElementById("result").innerHTML = userresult;
+  document.getElementById("result").innerHTML = userresult ;
